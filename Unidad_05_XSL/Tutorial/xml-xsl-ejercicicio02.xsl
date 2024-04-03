@@ -35,7 +35,7 @@
       <td><xsl:value-of select="."/></td>
     </tr>
   </xsl:template>
-  
+   
   <xsl:template match="amigos">
   	<tr class="tituloTabla">
   		<td><xsl:value-of select="."/></td>
